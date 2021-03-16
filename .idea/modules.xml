@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbt-gatling-frontline_9640.iml" filepath="$PROJECT_DIR$/.idea/modules/sbt-gatling-frontline_9640.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbt-gatling-frontline_9640-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sbt-gatling-frontline_9640-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbt-gatling-frontline.iml" filepath="$PROJECT_DIR$/.idea/modules/sbt-gatling-frontline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbt-gatling-frontline-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sbt-gatling-frontline-build.iml" />
     </modules>
   </component>
 </project>
