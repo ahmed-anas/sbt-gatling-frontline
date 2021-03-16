@@ -8,3 +8,4 @@ val gatlingVersion = "3.5.1"
 
 libraryDependencies += "io.gatling.highcharts" % "gatling-charts-highcharts" % gatlingVersion % "test"
 libraryDependencies += "io.gatling"            % "gatling-test-framework"    % gatlingVersion % "test"
+libraryDependencies += "com.github.phisgr"            % "gatling-grpc"    % "0.11.1"  % "test"
